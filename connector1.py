@@ -4,9 +4,9 @@ from snowflake.connector import ProgrammingError
 
 # Create the connecotr
 snow_conn_veggie = snowflake.connector.connect(
-    user='gotuchintu',
-    password='$Ummer234',
-    account='zv64936.us-east-2.aws',
+    user='X',
+    password='X',
+    account='X',
     warehouse='compute_wh',
     database='GARDEN_PLANTS',
     schema='VEGGIES',
